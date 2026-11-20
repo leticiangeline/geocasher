@@ -1,0 +1,5 @@
+Only create, change or read tables whose names start with geocasher_. Every other table in SharedDatabase belongs to someone else.
+Never open, print or copy .env. The Supabase URL and publishable key stay out of the chat.
+Show me the SQL before you run it, and ask before running git push.
+Do not touch files outside this project folder.
+Do one step at a time and keep changes small.
